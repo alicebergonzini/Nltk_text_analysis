@@ -1,0 +1,245 @@
+Lunghezza in token:
+Il primo corpus è più lungo del secondo corpus(più token)
+Lunghezza del corpus 1: 5296
+Lunghezza del corpus 2: 5221
+
+Lunghezza in frasi:
+Il secondo corpus ha più frasi del primo corpus
+Numero di frasi del corpus 1: 328
+Numero di frasi del corpus 2: 365
+
+Lunghezza media delle frasi:
+La lunghezza media delle frasi del corpus 1 è maggiore della lunghezza media delle frasi del corpus 2
+Lunghezza Media delle frasi del corpus 1: 16.146341463414632
+Lunghezza Media delle frasi del corpus 2: 14.304109589041095
+
+Lunghezza media dei token:
+La lunghezza media dei token del corpus 1 è maggiore della lunghezza media dei token del corpus 2
+Lunghezza Media dei token del corpus 1: 3.5100075528700905
+Lunghezza Media dei token del corpus 2: 3.3256081210496076
+
+Ricchezza del vocabolario:
+il vocabolario del corpus 1 è più ricco del vocabolario del corpus2.
+Grandezza del vocabolario del corpus 1: 1085
+Grandezza del vocabolario del corpus 2: 968
+
+Indice di ricchezza lessicale(TTR):
+il primo corpus ha una Type Token Ratio più alta del secondo corpus.
+TTR del corpus 1: 0.2048716012084592
+TTR del corpus 2: 0.1854050948094235
+
+----------------------------------------------------------------------------------
+
+Distribuzione delle classi di frequenza del corpus 1 all'aumentare del corpus:
+
+----------------Classe di frequenza V1----------------
+
+Corpus= 500
+Numero di parole con frequenza 1 = 107 
+
+Corpus= 1000
+Numero di parole con frequenza 1 = 169 
+
+Corpus= 1500
+Numero di parole con frequenza 1 = 230 
+
+Corpus= 2000
+Numero di parole con frequenza 1 = 270 
+
+Corpus= 2500
+Numero di parole con frequenza 1 = 319 
+
+Corpus= 3000
+Numero di parole con frequenza 1 = 362 
+
+Corpus= 3500
+Numero di parole con frequenza 1 = 428 
+
+Corpus= 4000
+Numero di parole con frequenza 1 = 468 
+
+Corpus= 4500
+Numero di parole con frequenza 1 = 508 
+
+Corpus= 5000
+Numero di parole con frequenza 1 = 534 
+
+----------------Classe di frequenza V5----------------
+
+Corpus= 500
+Numero di parole con frequenza 5 = 3 
+
+Corpus= 1000
+Numero di parole con frequenza 5 = 7 
+
+Corpus= 1500
+Numero di parole con frequenza 5 = 12 
+
+Corpus= 2000
+Numero di parole con frequenza 5 = 9 
+
+Corpus= 2500
+Numero di parole con frequenza 5 = 14 
+
+Corpus= 3000
+Numero di parole con frequenza 5 = 21 
+
+Corpus= 3500
+Numero di parole con frequenza 5 = 21 
+
+Corpus= 4000
+Numero di parole con frequenza 5 = 19 
+
+Corpus= 4500
+Numero di parole con frequenza 5 = 26 
+
+Corpus= 5000
+Numero di parole con frequenza 5 = 28 
+
+----------------Classe di frequenza V10----------------
+
+Corpus= 500
+Numero di parole con frequenza 10 = 1 
+
+Corpus= 1000
+Numero di parole con frequenza 10 = 5 
+
+Corpus= 1500
+Numero di parole con frequenza 10 = 1 
+
+Corpus= 2000
+Numero di parole con frequenza 10 = 2 
+
+Corpus= 2500
+Numero di parole con frequenza 10 = 1 
+
+Corpus= 3000
+Numero di parole con frequenza 10 = 4 
+
+Corpus= 3500
+Numero di parole con frequenza 10 = 5 
+
+Corpus= 4000
+Numero di parole con frequenza 10 = 10 
+
+Corpus= 4500
+Numero di parole con frequenza 10 = 11 
+
+Corpus= 5000
+Numero di parole con frequenza 10 = 9 
+
+----------------------------------------------------------------------------------
+
+Distribuzione delle classi di frequenza del corpus 2 all'aumentare del corpus:
+
+----------------Classe di frequenza V1----------------
+
+Corpus= 500
+Numero di parole con frequenza 1 = 145 
+
+Corpus= 1000
+Numero di parole con frequenza 1 = 202 
+
+Corpus= 1500
+Numero di parole con frequenza 1 = 231 
+
+Corpus= 2000
+Numero di parole con frequenza 1 = 281 
+
+Corpus= 2500
+Numero di parole con frequenza 1 = 341 
+
+Corpus= 3000
+Numero di parole con frequenza 1 = 381 
+
+Corpus= 3500
+Numero di parole con frequenza 1 = 421 
+
+Corpus= 4000
+Numero di parole con frequenza 1 = 466 
+
+Corpus= 4500
+Numero di parole con frequenza 1 = 485 
+
+Corpus= 5000
+Numero di parole con frequenza 1 = 503 
+
+----------------Classe di frequenza V5----------------
+
+Corpus= 500
+Numero di parole con frequenza 5 = 4 
+
+Corpus= 1000
+Numero di parole con frequenza 5 = 12 
+
+Corpus= 1500
+Numero di parole con frequenza 5 = 11 
+
+Corpus= 2000
+Numero di parole con frequenza 5 = 13 
+
+Corpus= 2500
+Numero di parole con frequenza 5 = 16 
+
+Corpus= 3000
+Numero di parole con frequenza 5 = 13 
+
+Corpus= 3500
+Numero di parole con frequenza 5 = 17 
+
+Corpus= 4000
+Numero di parole con frequenza 5 = 18 
+
+Corpus= 4500
+Numero di parole con frequenza 5 = 21 
+
+Corpus= 5000
+Numero di parole con frequenza 5 = 27 
+
+----------------Classe di frequenza V10----------------
+
+Corpus= 500
+Numero di parole con frequenza 10 = 3 
+
+Corpus= 1000
+Numero di parole con frequenza 10 = 3 
+
+Corpus= 1500
+Numero di parole con frequenza 10 = 4 
+
+Corpus= 2000
+Numero di parole con frequenza 10 = 7 
+
+Corpus= 2500
+Numero di parole con frequenza 10 = 5 
+
+Corpus= 3000
+Numero di parole con frequenza 10 = 3 
+
+Corpus= 3500
+Numero di parole con frequenza 10 = 5 
+
+Corpus= 4000
+Numero di parole con frequenza 10 = 7 
+
+Corpus= 4500
+Numero di parole con frequenza 10 = 10 
+
+Corpus= 5000
+Numero di parole con frequenza 10 = 9 
+
+----------------------------------------------------------------------------------
+Media di sostantivi per frase:
+La media di sostantivi per frase è più alta nel corpus 1.
+la media di sostantivi nelle frasi del corpus 1 è: 3.207317073170732
+la media di sostantivi nelle frasi del corpus 2 è: 2.665753424657534
+
+Media di verbi per frase:
+La media di verbi per frase è più alta nel corpus 1.
+la media di verbi nelle frasi del corpus 1 è: 3.1280487804878048
+la media di verbi nelle frasi del corpus 2 è: 2.7726027397260276
+-------------------------------------------------------------------------------------
+Confronto densità lessicale, inteso come il rapporto tra numero di sostantivi, verbi, aggettivi, avverbi e la lunghezza in token del corpus meno i segni di punteggiatura
+Il corpus 2 ha una densità lessicale maggiore del corpus 1.
+Densità lessicale corpus 1: 0.5691850594227504
+Densità lessicale corpus2: 0.5740659340659341

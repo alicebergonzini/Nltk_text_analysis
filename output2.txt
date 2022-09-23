@@ -1,0 +1,1213 @@
+ PART OF SPEECH TAGGING
+
+ Le 10 PoS più frequenti del corpus 1:
+
+  1 . " NN "
+ Frequenza: 591
+
+  2 . " PRP "
+ Frequenza: 501
+
+  3 . " IN "
+ Frequenza: 434
+
+  4 . " DT "
+ Frequenza: 414
+
+  5 . " . "
+ Frequenza: 328
+
+  6 . " JJ "
+ Frequenza: 293
+
+  7 . " VBP "
+ Frequenza: 290
+
+  8 . " VB "
+ Frequenza: 289
+
+  9 . " RB "
+ Frequenza: 263
+
+  10 . " , "
+ Frequenza: 256
+
+ Le 10 PoS più frequenti del corpus 2:
+
+  1 . " PRP "
+ Frequenza: 612
+
+  2 . " NN "
+ Frequenza: 528
+
+  3 . " . "
+ Frequenza: 372
+
+  4 . " DT "
+ Frequenza: 358
+
+  5 . " IN "
+ Frequenza: 350
+
+  6 . " JJ "
+ Frequenza: 330
+
+  7 . " , "
+ Frequenza: 299
+
+  8 . " VBP "
+ Frequenza: 297
+
+  9 . " NNP "
+ Frequenza: 284
+
+  10 . " RB "
+ Frequenza: 275
+
+ I 20 Sostantivi più frequenti del corpus 1:
+
+  1 . " ’ "
+ Frequenza: 35
+
+  2 . " time "
+ Frequenza: 14
+
+  3 . " t "
+ Frequenza: 14
+
+  4 . " s "
+ Frequenza: 14
+
+  5 . " America "
+ Frequenza: 13
+
+  6 . " people "
+ Frequenza: 13
+
+  7 . " home "
+ Frequenza: 12
+
+  8 . " votes "
+ Frequenza: 10
+
+  9 . " nation "
+ Frequenza: 10
+
+  10 . " country "
+ Frequenza: 10
+
+  11 . " job "
+ Frequenza: 10
+
+  12 . " Scranton "
+ Frequenza: 9
+
+  13 . " world "
+ Frequenza: 9
+
+  14 . " Americans "
+ Frequenza: 9
+
+  15 . " work "
+ Frequenza: 9
+
+  16 . " lot "
+ Frequenza: 8
+
+  17 . " Trump "
+ Frequenza: 8
+
+  18 . " vote "
+ Frequenza: 8
+
+  19 . " Pennsylvania "
+ Frequenza: 7
+
+  20 . " fact "
+ Frequenza: 7
+
+ I 20 Sostantivi più frequenti del corpus 2:
+
+  1 . " t "
+ Frequenza: 38
+
+  2 . " ’ "
+ Frequenza: 29
+
+  3 . " ” "
+ Frequenza: 21
+
+  4 . " people "
+ Frequenza: 20
+
+  5 . " “ "
+ Frequenza: 19
+
+  6 . " years "
+ Frequenza: 18
+
+  7 . " Biden "
+ Frequenza: 14
+
+  8 . " s "
+ Frequenza: 12
+
+  9 . " thing "
+ Frequenza: 11
+
+  10 . " t "
+ Frequenza: 10
+
+  11 . " ” "
+ Frequenza: 10
+
+  12 . " president "
+ Frequenza: 9
+
+  13 . " anything "
+ Frequenza: 9
+
+  14 . " night "
+ Frequenza: 9
+
+  15 . " Carolina "
+ Frequenza: 9
+
+  16 . " vote "
+ Frequenza: 8
+
+  17 . " North "
+ Frequenza: 8
+
+  18 . " way "
+ Frequenza: 7
+
+  19 . " Russia "
+ Frequenza: 7
+
+  20 . " Wisconsin "
+ Frequenza: 7
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+ I 20 Verbi più frequenti del corpus 1:
+
+  1 . " ’ "
+ Frequenza: 124
+
+  2 . " going "
+ Frequenza: 57
+
+  3 . " is "
+ Frequenza: 40
+
+  4 . " ’ "
+ Frequenza: 35
+
+  5 . " be "
+ Frequenza: 27
+
+  6 . " are "
+ Frequenza: 26
+
+  7 . " have "
+ Frequenza: 25
+
+  8 . " s "
+ Frequenza: 19
+
+  9 . " re "
+ Frequenza: 18
+
+  10 . " want "
+ Frequenza: 18
+
+  11 . " get "
+ Frequenza: 15
+
+  12 . " know "
+ Frequenza: 15
+
+  13 . " thank "
+ Frequenza: 13
+
+  14 . " been "
+ Frequenza: 13
+
+  15 . " done "
+ Frequenza: 11
+
+  16 . " was "
+ Frequenza: 11
+
+  17 . " do "
+ Frequenza: 10
+
+  18 . " has "
+ Frequenza: 10
+
+  19 . " win "
+ Frequenza: 10
+
+  20 . " s "
+ Frequenza: 9
+
+ I 20 Verbi più frequenti del corpus 2:
+
+  1 . " ’ "
+ Frequenza: 63
+
+  2 . " ’ "
+ Frequenza: 52
+
+  3 . " was "
+ Frequenza: 45
+
+  4 . " have "
+ Frequenza: 38
+
+  5 . " said "
+ Frequenza: 34
+
+  6 . " going "
+ Frequenza: 32
+
+  7 . " is "
+ Frequenza: 31
+
+  8 . " are "
+ Frequenza: 22
+
+  9 . " been "
+ Frequenza: 22
+
+  10 . " be "
+ Frequenza: 18
+
+  11 . " say "
+ Frequenza: 18
+
+  12 . " don "
+ Frequenza: 17
+
+  13 . " had "
+ Frequenza: 17
+
+  14 . " win "
+ Frequenza: 16
+
+  15 . " did "
+ Frequenza: 16
+
+  16 . " got "
+ Frequenza: 14
+
+  17 . " were "
+ Frequenza: 13
+
+  18 . " s "
+ Frequenza: 12
+
+  19 . " know "
+ Frequenza: 12
+
+  20 . " do "
+ Frequenza: 12
+
+---------------------------------------------------------------------------------------------------------------------
+
+ I 20 bigrammi Sostantivo-Verbo più frequenti del corpus 1:
+
+  1 . Bigramma: ('’', 's')
+ Frequenza: 23
+
+  2 . Bigramma: ('fact', 'is')
+ Frequenza: 4
+
+  3 . Bigramma: ('t', 'have')
+ Frequenza: 3
+
+  4 . Bigramma: ('people', 'are')
+ Frequenza: 3
+
+  5 . Bigramma: ('ve', 'said')
+ Frequenza: 3
+
+  6 . Bigramma: ('hour', 'is')
+ Frequenza: 2
+
+  7 . Bigramma: ('religions', 'chose')
+ Frequenza: 2
+
+  8 . Bigramma: ('people', 'spoke')
+ Frequenza: 2
+
+  9 . Bigramma: ('work', 'done')
+ Frequenza: 2
+
+  10 . Bigramma: ('lives', 'lost')
+ Frequenza: 2
+
+  11 . Bigramma: ('disagreements', 'are')
+ Frequenza: 2
+
+  12 . Bigramma: ('patience', 'is')
+ Frequenza: 2
+
+  13 . Bigramma: ('s', 'allowed')
+ Frequenza: 2
+
+  14 . Bigramma: ('numbers', 'tell')
+ Frequenza: 1
+
+  15 . Bigramma: ('ticket', 'has')
+ Frequenza: 1
+
+  16 . Bigramma: ('total', 'is')
+ Frequenza: 1
+
+  17 . Bigramma: ('tallies', 'aren')
+ Frequenza: 1
+
+  18 . Bigramma: ('country', 'is')
+ Frequenza: 1
+
+  19 . Bigramma: ('cases', 'are')
+ Frequenza: 1
+
+  20 . Bigramma: ('toll', 'is')
+ Frequenza: 1
+
+ I 20 bigrammi Sostantivo-Verbo più frequenti del corpus 2:
+
+  1 . Bigramma: ('’', 's')
+ Frequenza: 16
+
+  2 . Bigramma: ('t', 'have')
+ Frequenza: 10
+
+  3 . Bigramma: ('t', 'know')
+ Frequenza: 6
+
+  4 . Bigramma: ('t', 'do')
+ Frequenza: 5
+
+  5 . Bigramma: ('t', 'be')
+ Frequenza: 4
+
+  6 . Bigramma: ('Biden', 'is')
+ Frequenza: 4
+
+  7 . Bigramma: ('people', 'are')
+ Frequenza: 3
+
+  8 . Bigramma: ('s', 'going')
+ Frequenza: 2
+
+  9 . Bigramma: ('t', 'want')
+ Frequenza: 2
+
+  10 . Bigramma: ('s', 'called')
+ Frequenza: 2
+
+  11 . Bigramma: ('laptop', 'was')
+ Frequenza: 2
+
+  12 . Bigramma: ('Somebody', 'gave')
+ Frequenza: 2
+
+  13 . Bigramma: ('man', 'gets')
+ Frequenza: 2
+
+  14 . Bigramma: ('t', 'love')
+ Frequenza: 2
+
+  15 . Bigramma: ('Nobody', '’')
+ Frequenza: 2
+
+  16 . Bigramma: ('products', 'are')
+ Frequenza: 1
+
+  17 . Bigramma: ('economy', 'is')
+ Frequenza: 1
+
+  18 . Bigramma: ('nobody', 'did')
+ Frequenza: 1
+
+  19 . Bigramma: ('Nobody', 'thought')
+ Frequenza: 1
+
+  20 . Bigramma: ('nations', 'are')
+ Frequenza: 1
+
+---------------------------------------------------------------------------------------------------------------------
+
+ I 20 bigrammi Aggettivo-Sostantivo più frequenti del corpus 1:
+
+  1 . Bigramma ('’', 't')
+ Frequenza: 8
+
+  2 . Bigramma ('s', 'time')
+ Frequenza: 4
+
+  3 . Bigramma ('middle', 'class')
+ Frequenza: 4
+
+  4 . Bigramma ('many', 'times')
+ Frequenza: 3
+
+  5 . Bigramma ('re', 'feeling')
+ Frequenza: 3
+
+  6 . Bigramma ('first', 'Democrat')
+ Frequenza: 2
+
+  7 . Bigramma ('faiths', 'religions')
+ Frequenza: 2
+
+  8 . Bigramma ('climate', 'change')
+ Frequenza: 2
+
+  9 . Bigramma ('systemic', 'racism')
+ Frequenza: 2
+
+  10 . Bigramma ('final', 'results')
+ Frequenza: 2
+
+  11 . Bigramma ('economic', 'crisis')
+ Frequenza: 2
+
+  12 . Bigramma ('strong', 'disagreements')
+ Frequenza: 2
+
+  13 . Bigramma ('21st', 'century')
+ Frequenza: 2
+
+  14 . Bigramma ('’', 's')
+ Frequenza: 2
+
+  15 . Bigramma ('“', 'Joey')
+ Frequenza: 2
+
+  16 . Bigramma ('many', 'people')
+ Frequenza: 2
+
+  17 . Bigramma ('small', 'businesses')
+ Frequenza: 2
+
+  18 . Bigramma ('whole', 'lot')
+ Frequenza: 2
+
+  19 . Bigramma ('other', 'nation')
+ Frequenza: 2
+
+  20 . Bigramma ('more', 'days')
+ Frequenza: 2
+
+ I 20 bigrammi Aggettivo-Sostantivo più frequenti del corpus 2:
+
+  1 . Bigramma ('’', 't')
+ Frequenza: 36
+
+  2 . Bigramma ('’', 's')
+ Frequenza: 5
+
+  3 . Bigramma ('last', 'night')
+ Frequenza: 5
+
+  4 . Bigramma ('whole', 'thing')
+ Frequenza: 4
+
+  5 . Bigramma ('fake', 'news')
+ Frequenza: 3
+
+  6 . Bigramma ('half', 'years')
+ Frequenza: 3
+
+  7 . Bigramma ('corrupt', 'politician')
+ Frequenza: 3
+
+  8 . Bigramma ('big', 'man')
+ Frequenza: 3
+
+  9 . Bigramma ('religious', 'liberty')
+ Frequenza: 2
+
+  10 . Bigramma ('natural', 'gas')
+ Frequenza: 2
+
+  11 . Bigramma ('fake', 'people')
+ Frequenza: 2
+
+  12 . Bigramma ('vast', 'majority')
+ Frequenza: 2
+
+  13 . Bigramma ('sleepy', 'Joe')
+ Frequenza: 2
+
+  14 . Bigramma ('first', 'paragraph')
+ Frequenza: 2
+
+  15 . Bigramma ('first', 'day')
+ Frequenza: 2
+
+  16 . Bigramma ('great', 'people')
+ Frequenza: 2
+
+  17 . Bigramma ('great', 'job')
+ Frequenza: 2
+
+  18 . Bigramma ('more', 'years')
+ Frequenza: 1
+
+  19 . Bigramma ('great', 'White')
+ Frequenza: 1
+
+  20 . Bigramma ('great', 'police')
+ Frequenza: 1
+
+ PROBABILITA' CONGIUNTA DI BIGRAMMI
+
+ I 20 bigrammi del corpus 1 con probabilità congiunta massima:
+
+ Bigramma 1 : " ’ , s "
+ probabilità congiunta: 0.013217522658610271
+
+ Bigramma 2 : " ’ , re "
+ probabilità congiunta: 0.01265105740181269
+
+ Bigramma 3 : " . , We "
+ probabilità congiunta: 0.011329305135951661
+
+ Bigramma 4 : " going , to "
+ probabilità congiunta: 0.010007552870090634
+
+ Bigramma 5 : " we , ’ "
+ probabilità congiunta: 0.007930513595166163
+
+ Bigramma 6 : " I , ’ "
+ probabilità congiunta: 0.006231117824773414
+
+ Bigramma 7 : " . , And "
+ probabilità congiunta: 0.006231117824773414
+
+ Bigramma 8 : " . , I "
+ probabilità congiunta: 0.005853474320241692
+
+ Bigramma 9 : " re , going "
+ probabilità congiunta: 0.0056646525679758305
+
+ Bigramma 10 : " ’ , ve "
+ probabilità congiunta: 0.005287009063444109
+
+ Bigramma 11 : " We , ’ "
+ probabilità congiunta: 0.004909365558912387
+
+ Bigramma 12 : " ’ , t "
+ probabilità congiunta: 0.004531722054380665
+
+ Bigramma 13 : " ’ , m "
+ probabilità congiunta: 0.004154078549848943
+
+ Bigramma 14 : " , , and "
+ probabilità congiunta: 0.0039652567975830815
+
+ Bigramma 15 : " of , the "
+ probabilità congiunta: 0.0037764350453172208
+
+ Bigramma 16 : " , , we "
+ probabilità congiunta: 0.0032099697885196376
+
+ Bigramma 17 : " . , They "
+ probabilità congiunta: 0.0030211480362537764
+
+ Bigramma 18 : " , , I "
+ probabilità congiunta: 0.0030211480362537764
+
+ Bigramma 19 : " thank , you "
+ probabilità congiunta: 0.0026435045317220545
+
+ Bigramma 20 : " . , The "
+ probabilità congiunta: 0.0026435045317220545
+--------------------------------------------------------------------------------------------------------------------
+
+ I 20 bigrammi del corpus 2 con probabilità congiunta massima:
+
+ Bigramma 1 : " ’ , s "
+ probabilità congiunta: 0.016088871863627657
+
+ Bigramma 2 : " ’ , t "
+ probabilità congiunta: 0.011300517142309903
+
+ Bigramma 3 : " . , And "
+ probabilità congiunta: 0.008044435931813828
+
+ Bigramma 4 : " . , I "
+ probabilità congiunta: 0.006895230798697568
+
+ Bigramma 5 : " . , They "
+ probabilità congiunta: 0.006895230798697568
+
+ Bigramma 6 : " , , “ "
+ probabilità congiunta: 0.006320628232139437
+
+ Bigramma 7 : " ’ , re "
+ probabilità congiunta: 0.006320628232139437
+
+ Bigramma 8 : " going , to "
+ probabilità congiunta: 0.004979888910170465
+
+ Bigramma 9 : " said , , "
+ probabilità congiunta: 0.004788354721317755
+
+ Bigramma 10 : " . , We "
+ probabilità congiunta: 0.004596820532465045
+
+ Bigramma 11 : " , , but "
+ probabilità congiunta: 0.004405286343612335
+
+ Bigramma 12 : " I , ’ "
+ probabilità congiunta: 0.004213752154759625
+
+ Bigramma 13 : " don , ’ "
+ probabilità congiunta: 0.004022217965906914
+
+ Bigramma 14 : " , , I "
+ probabilità congiunta: 0.004022217965906914
+
+ Bigramma 15 : " . , He "
+ probabilità congiunta: 0.003830683777054204
+
+ Bigramma 16 : " it , . "
+ probabilità congiunta: 0.003639149588201494
+
+ Bigramma 17 : " . , It "
+ probabilità congiunta: 0.0032560812104960733
+
+ Bigramma 18 : " we , ’ "
+ probabilità congiunta: 0.0030645470216433632
+
+ Bigramma 19 : " to , win "
+ probabilità congiunta: 0.002873012832790653
+
+ Bigramma 20 : " , , we "
+ probabilità congiunta: 0.002873012832790653
+
+ PROBABILITA' CONDIZIONATA DI BIGRAMMI:
+
+ I 20 bigrammi del corpus 1 con probabilità condizionata massima:
+
+ Bigramma 1 : " don , ’ "
+ probabilità condizionata: 1.0
+
+ Bigramma 2 : " used , to "
+ probabilità condizionata: 1.0
+
+ Bigramma 3 : " Thank , you "
+ probabilità condizionata: 1.0
+
+ Bigramma 4 : " 74 , million "
+ probabilità condizionata: 1.0
+
+ Bigramma 5 : " doesn , ’ "
+ probabilità condizionata: 1.0
+
+ Bigramma 6 : " Look , , "
+ probabilità condizionata: 1.0
+
+ Bigramma 7 : " able , to "
+ probabilità condizionata: 1.0
+
+ Bigramma 8 : " It , ’ "
+ probabilità condizionata: 1.0
+
+ Bigramma 9 : " Donald , Trump "
+ probabilità condizionata: 1.0
+
+ Bigramma 10 : " United , States "
+ probabilità condizionata: 1.0
+
+ Bigramma 11 : " allowed , to "
+ probabilità condizionata: 1.0
+
+ Bigramma 12 : " rise , up "
+ probabilità condizionata: 1.0
+
+ Bigramma 13 : " going , to "
+ probabilità condizionata: 0.9298245614035088
+
+ Bigramma 14 : " Delaware , . "
+ probabilità condizionata: 0.8333333333333334
+
+ Bigramma 15 : " thank , you "
+ probabilità condizionata: 0.8235294117647058
+
+ Bigramma 16 : " middle , class "
+ probabilità condizionata: 0.8
+
+ Bigramma 17 : " Folks , , "
+ probabilità condizionata: 0.8
+
+ Bigramma 18 : " This , is "
+ probabilità condizionata: 0.8
+
+ Bigramma 19 : " That , ’ "
+ probabilità condizionata: 0.8
+
+ Bigramma 20 : " way , , "
+ probabilità condizionata: 0.8
+--------------------------------------------------------------------------------------------------------------------
+
+ I 20 bigrammi del corpus 2 con probabilità condizionata massima:
+
+ Bigramma 1 : " wouldn , ’ "
+ probabilità condizionata: 1.0
+
+ Bigramma 2 : " don , ’ "
+ probabilità condizionata: 1.0
+
+ Bigramma 3 : " Thank , you "
+ probabilità condizionata: 1.0
+
+ Bigramma 4 : " didn , ’ "
+ probabilità condizionata: 1.0
+
+ Bigramma 5 : " North , Carolina "
+ probabilità condizionata: 1.0
+
+ Bigramma 6 : " Can , you "
+ probabilità condizionata: 1.0
+
+ Bigramma 7 : " anyway , . "
+ probabilità condizionata: 1.0
+
+ Bigramma 8 : " job , . "
+ probabilità condizionata: 0.8571428571428571
+
+ Bigramma 9 : " Wisconsin , , "
+ probabilità condizionata: 0.8571428571428571
+
+ Bigramma 10 : " No , , "
+ probabilità condizionata: 0.8181818181818182
+
+ Bigramma 11 : " going , to "
+ probabilità condizionata: 0.8125
+
+ Bigramma 12 : " John , , "
+ probabilità condizionata: 0.8
+
+ Bigramma 13 : " It , ’ "
+ probabilità condizionata: 0.7777777777777778
+
+ Bigramma 14 : " This , is "
+ probabilità condizionata: 0.75
+
+ Bigramma 15 : " Oh , , "
+ probabilità condizionata: 0.75
+
+ Bigramma 16 : " media , , "
+ probabilità condizionata: 0.75
+
+ Bigramma 17 : " said , , "
+ probabilità condizionata: 0.7352941176470589
+
+ Bigramma 18 : " can , ’ "
+ probabilità condizionata: 0.7142857142857143
+
+ Bigramma 19 : " make , it "
+ probabilità condizionata: 0.7142857142857143
+
+ Bigramma 20 : " last , night "
+ probabilità condizionata: 0.7142857142857143
+
+ LOCAL MUTUAL INFORMATION DI BIGRAMMI:
+
+ I 20 bigrammi del corpus 1 con mutual information massima:
+
+ Bigramma 1 : " ’ , s "
+ Local Mutual Information: 320.794939319105
+
+ Bigramma 2 : " ’ , re "
+ Local Mutual Information: 307.0465847768576
+
+ Bigramma 3 : " going , to "
+ Local Mutual Information: 247.287665265983
+
+ Bigramma 4 : " . , We "
+ Local Mutual Information: 242.92555871519136
+
+ Bigramma 5 : " re , going "
+ Local Mutual Information: 161.3579639337967
+
+ Bigramma 6 : " we , ’ "
+ Local Mutual Information: 146.2964653023246
+
+ Bigramma 7 : " ’ , ve "
+ Local Mutual Information: 128.317975727642
+
+ Bigramma 8 : " . , And "
+ Local Mutual Information: 128.16210216642884
+
+ Bigramma 9 : " ’ , t "
+ Local Mutual Information: 109.98683633797886
+
+ Bigramma 10 : " ’ , m "
+ Local Mutual Information: 100.82126664314728
+
+ Bigramma 11 : " I , ’ "
+ Local Mutual Information: 99.89978211137469
+
+ Bigramma 12 : " We , ’ "
+ Local Mutual Information: 87.78468321865736
+
+ Bigramma 13 : " thank , you "
+ Local Mutual Information: 85.90936448118651
+
+ Bigramma 14 : " . , I "
+ Local Mutual Information: 74.49432618370768
+
+ Bigramma 15 : " I , want "
+ Local Mutual Information: 68.91676065714532
+
+ Bigramma 16 : " . , They "
+ Local Mutual Information: 64.78014899071768
+
+ Bigramma 17 : " more , than "
+ Local Mutual Information: 63.4388338072787
+
+ Bigramma 18 : " It , ’ "
+ Local Mutual Information: 59.576203016405216
+
+ Bigramma 19 : " . , The "
+ Local Mutual Information: 56.682630366877966
+
+ Bigramma 20 : " Donald , Trump "
+ Local Mutual Information: 56.224124440843305
+---------------------------------------------------------------------------------------------------------------------
+
+ I 20 bigrammi del corpus 2 con Local mutual information massima:
+
+ Bigramma 1 : " ’ , re "
+ Local Mutual Information: 379.9815083525124
+
+ Bigramma 2 : " going , to "
+ Local Mutual Information: 349.92176574807064
+
+ Bigramma 3 : " ’ , s "
+ Local Mutual Information: 307.06454235611295
+
+ Bigramma 4 : " . , We "
+ Local Mutual Information: 297.46758123415003
+
+ Bigramma 5 : " re , going "
+ Local Mutual Information: 216.3782075879398
+
+ Bigramma 6 : " we , ’ "
+ Local Mutual Information: 185.9456887625563
+
+ Bigramma 7 : " ’ , ve "
+ Local Mutual Information: 176.03881808301958
+
+ Bigramma 8 : " ’ , m "
+ Local Mutual Information: 121.53107654870549
+
+ Bigramma 9 : " We , ’ "
+ Local Mutual Information: 115.52371604122465
+
+ Bigramma 10 : " . , And "
+ Local Mutual Information: 108.05080061702593
+
+ Bigramma 11 : " I , ’ "
+ Local Mutual Information: 87.0798194991153
+
+ Bigramma 12 : " of , the "
+ Local Mutual Information: 84.10394659827377
+
+ Bigramma 13 : " ’ , t "
+ Local Mutual Information: 80.4477642375876
+
+ Bigramma 14 : " to , be "
+ Local Mutual Information: 77.16529706195551
+
+ Bigramma 15 : " . , The "
+ Local Mutual Information: 72.52259618667863
+
+ Bigramma 16 : " I , want "
+ Local Mutual Information: 71.96586939555694
+
+ Bigramma 17 : " to , get "
+ Local Mutual Information: 63.889501852112886
+
+ Bigramma 18 : " of , our "
+ Local Mutual Information: 60.09916591238789
+
+ Bigramma 19 : " . , I "
+ Local Mutual Information: 57.557913759100444
+
+ Bigramma 20 : " we , can "
+ Local Mutual Information: 55.42436541740093
+--------------------------------------------------------------------------------------------------------------------
+
+ FRASI CON PROBABILITA' MASSIMA DI LUNGHEZZA 8 - 15
+
+ La frase del corpus 1 di lunghezza 8 con probabilità massima è:
+We’re going to reverse it.
+ Probabilità: 4.1174675269706e-11
+
+ La frase del corpus 2 di lunghezza 8 con probabilità massima è:
+We’re going to shove it.
+ Probabilità: 4.445604808292144e-12
+
+ La frase del corpus 1 di lunghezza 9 con probabilità massima è:
+They’re going to build back better.
+ Probabilità: 6.062056923094469e-13
+
+ La frase del corpus 2 di lunghezza 9 con probabilità massima è:
+Now, they couldn’t do it.
+ Probabilità: 7.546667221671319e-15
+
+ La frase del corpus 1 di lunghezza 10 con probabilità massima è:
+We’re feeling good about where we are.
+ Probabilità: 1.7882891270310414e-17
+
+ La frase del corpus 2 di lunghezza 10 con probabilità massima è:
+We’re going to win the whole thing.
+ Probabilità: 4.823531831857594e-16
+
+ La frase del corpus 1 di lunghezza 11 con probabilità massima è:
+You’re going to start paying your fair share.
+ Probabilità: 1.7396490923922867e-20
+
+ La frase del corpus 2 di lunghezza 11 con probabilità massima è:
+He’s a corrupt politician, you see it.
+ Probabilità: 5.910677876211206e-19
+
+ La frase del corpus 1 di lunghezza 12 con probabilità massima è:
+Tomorrow we’re going to send Conner back to Congress.
+ Probabilità: 1.2019120439802104e-21
+
+ La frase del corpus 2 di lunghezza 12 con probabilità massima è:
+I don’t care, I’ll say it.
+ Probabilità: 3.715365283311032e-20
+
+ La frase del corpus 1 di lunghezza 13 con probabilità massima è:
+That’s all right, I’m used to babies.
+ Probabilità: 5.983351828449409e-25
+
+ La frase del corpus 2 di lunghezza 13 con probabilità massima è:
+That’s what he’s been doing all his life.
+ Probabilità: 4.4165633345146614e-24
+
+ La frase del corpus 1 di lunghezza 14 con probabilità massima è:
+It’s not going to be easy, we have to try.
+ Probabilità: 8.331783218297571e-26
+
+ La frase del corpus 2 di lunghezza 14 con probabilità massima è:
+Jerry Nadler, he’s a beauty, isn’t he?
+ Probabilità: 6.479994006200765e-27
+
+ La frase del corpus 1 di lunghezza 15 con probabilità massima è:
+And let me tell you, they’re going to build back better.
+ Probabilità: 3.212921548572156e-27
+
+ La frase del corpus 2 di lunghezza 15 con probabilità massima è:
+Do you mind?” He said, “I don’t care.
+ Probabilità: 1.072243458552183e-27
+
+------------------------------------------------------------------------------------------------------------------
+
+ NAMED ENTITY TAGGING
+
+ I 15 nomi propri di persona più frequenti del corpus 1: 
+
+
+  1 .  Donald Trump
+ Frequenza: 6
+
+  2 .  Look
+ Frequenza: 4
+
+  3 .  Joey
+ Frequenza: 3
+
+  4 .  Michigan
+ Frequenza: 2
+
+  5 .  Wisconsin
+ Frequenza: 2
+
+  6 .  Conner
+ Frequenza: 2
+
+  7 .  Joanne Sabir
+ Frequenza: 2
+
+  8 .  Senator Harris
+ Frequenza: 1
+
+  9 .  Harris
+ Frequenza: 1
+
+  10 .  Allegheny County
+ Frequenza: 1
+
+  11 .  Chris Coons
+ Frequenza: 1
+
+  12 .  Hey John
+ Frequenza: 1
+
+  13 .  Scranton
+ Frequenza: 1
+
+  14 .  God
+ Frequenza: 1
+
+  15 .  Tommy
+ Frequenza: 1
+
+ I 15 Nomi propri di persona più frequenti del corpus 2: 
+
+
+  1 .  Biden
+ Frequenza: 9
+
+  2 .  John
+ Frequenza: 4
+
+  3 .  Obama
+ Frequenza: 3
+
+  4 .  Fox
+ Frequenza: 3
+
+  5 .  Trump
+ Frequenza: 3
+
+  6 .  Joe Biden
+ Frequenza: 3
+
+  7 .  Hunter
+ Frequenza: 3
+
+  8 .  Wisconsin
+ Frequenza: 2
+
+  9 .  North Carolina
+ Frequenza: 2
+
+  10 .  Schiff
+ Frequenza: 2
+
+  11 .  Hillary
+ Frequenza: 2
+
+  12 .  Joe
+ Frequenza: 2
+
+  13 .  Jerry Nadler
+ Frequenza: 2
+
+  14 .  Tomorrow
+ Frequenza: 1
+
+  15 .  Nobody
+ Frequenza: 1
+------------------------------------------------------------------------------------------------------------------
+
+ I 15 nomi propri di luogo più frequenti del corpus 1: 
+
+
+  1 .  America
+ Frequenza: 11
+
+  2 .  Scranton
+ Frequenza: 8
+
+  3 .  Pennsylvania
+ Frequenza: 7
+
+  4 .  Delaware
+ Frequenza: 6
+
+  5 .  Arizona
+ Frequenza: 4
+
+  6 .  United States
+ Frequenza: 4
+
+  7 .  Georgia
+ Frequenza: 3
+
+  8 .  Claymont
+ Frequenza: 3
+
+  9 .  Nevada
+ Frequenza: 2
+
+  10 .  Chief
+ Frequenza: 2
+
+  11 .  Good
+ Frequenza: 1
+
+  12 .  Philly
+ Frequenza: 1
+
+  13 .  American
+ Frequenza: 1
+
+  14 .  Beaver County
+ Frequenza: 1
+
+  15 .  Greg
+ Frequenza: 1
+
+ I 15 nomi propri di luogo più frequenti del corpus 2: 
+
+
+  1 .  North Carolina
+ Frequenza: 6
+
+  2 .  Russia
+ Frequenza: 6
+
+  3 .  Wisconsin
+ Frequenza: 5
+
+  4 .  Pennsylvania
+ Frequenza: 5
+
+  5 .  China
+ Frequenza: 5
+
+  6 .  Florida
+ Frequenza: 4
+
+  7 .  Washington
+ Frequenza: 3
+
+  8 .  American
+ Frequenza: 3
+
+  9 .  Washington Post
+ Frequenza: 2
+
+  10 .  Michigan
+ Frequenza: 2
+
+  11 .  Schiff
+ Frequenza: 2
+
+  12 .  United States
+ Frequenza: 2
+
+  13 .  Europe
+ Frequenza: 1
+
+  14 .  South Carolina
+ Frequenza: 1
+
+  15 .  Miami
+ Frequenza: 1
