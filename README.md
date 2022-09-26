@@ -1,5 +1,5 @@
 > University of Pisa, UNIPI \
-> Author: [Alice Bergonzini](https://github.com/alicebergonzini) \
+> Author: [Alice Bergonzini](https://github.com/alicebergonzini) 
 
 # NLTK Text Analysis
 
